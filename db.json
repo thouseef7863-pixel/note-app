@@ -1,0 +1,71 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Team Meeting",
+      "content": "Discuss Q1 roadmap and deadlines...",
+      "color": "yellow",
+      "tags": [
+        "work"
+      ],
+      "archived": false,
+      "stock": 0,
+      "createdAt": "2026-02-10T10:00:00Z",
+      "updatedAt": "2026-10-15T05:56:22.879Z"
+    },
+    {
+      "id": "2",
+      "title": "React Learning",
+      "content": "Practice Context API, JSON Server, and axios.",
+      "color": "blue",
+      "tags": [
+        "learning",
+        "react"
+      ],
+      "archived": false,
+      "stock": 0,
+      "createdAt": "2026-02-11T10:00:00Z",
+      "updatedAt": "2026-10-15T05:56:25.533Z"
+    },
+    {
+      "id": "3",
+      "title": "Grocery Shopping",
+      "content": "Buy almond milk, sourdough bread, avocados, and espresso beans.",
+      "color": "green",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "archived": false,
+      "stock": 0,
+      "createdAt": "2026-02-12T14:30:00Z",
+      "updatedAt": "2026-10-15T05:56:27.731Z"
+    },
+    {
+      "id": "4",
+      "title": "Old Project Notes",
+      "content": "Sprint retrospective notes from previous quarter archive.",
+      "color": "red",
+      "tags": [
+        "work",
+        "archive"
+      ],
+      "archived": false,
+      "stock": 0,
+      "createdAt": "2026-01-15T09:00:00Z",
+      "updatedAt": "2026-10-15T05:56:31.547Z"
+    },
+    {
+      "title": "thouseef",
+      "content": "learn react",
+      "color": "blue",
+      "tags": [],
+      "archived": false,
+      "stock": 0,
+      "createdAt": "2026-10-15T05:56:57.752Z",
+      "updatedAt": "2026-10-15T05:56:57.752Z",
+      "id": "ZqQjvA6kydA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
